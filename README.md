@@ -7,6 +7,8 @@ NG-FORM-ELEMENT
 从2.1.0版本开始支持国际化，内置中文简体和英文两种语言。
  
 
+## 文档（陆续更新） 
+http://www.ng-form.cn/
 
 
  **在线示例**
@@ -24,9 +26,6 @@ NG-FORM-ELEMENT
 ## 后端服务
 **ngtool 后端解析和校验功能** 
 https://gitee.com/jjxliu306/ngtool
-
-## 文档（陆续更新） 
-https://www.kancloud.cn/jjxliu306/ng-form/3191385
 
  
 ## 集成示例
